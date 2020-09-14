@@ -1,5 +1,5 @@
 # GCP-ML-API-Demos
-Contains Colab Notebooks show cool use-cases of different GCP ML ML APIs.
+Contains Colab Notebooks show cool use-cases of different [GCP ML APIs](https://cloud.google.com/products/ai).
 
 ## Acknowledgement
 Thanks to the [GDE program](https://developers.google.com/programs/experts/) for providing with the GCP credit support which made these demos possible. 
