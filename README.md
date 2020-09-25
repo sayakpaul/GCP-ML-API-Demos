@@ -1,5 +1,5 @@
 # GCP-ML-API-Demos
-Contains Colab Notebooks show cool use-cases of different [GCP ML APIs](https://cloud.google.com/products/ai). The repository accompanies this post - The Maker Philosophy with ML APIs (TODO - Update Link).
+Contains Colab Notebooks show cool use-cases of different [GCP ML APIs](https://cloud.google.com/products/ai). The repository accompanies this post - [**The Maker Philosophy with ML APIs**](https://sayak.dev/mlapis-maker/).
 
 <div align="center"><img src="images/making_with_cloud_apis.png" width="250"></img></div>
 
